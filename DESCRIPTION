@@ -1,0 +1,11 @@
+Package: NAreplace
+Type: Package
+Title: Replace NA with previous value
+Version: 0.1.0
+Author: Jibin George
+Maintainer: Jibin George <jibinpg90@gmail.com>
+Description: This package helps to replace missing values in a vector with previous value.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
